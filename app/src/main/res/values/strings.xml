@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scan-WMS</string>
+    <string name="system_error_open_camera">No es posible abrir la camara, revise permisos</string>
+    <string name="system_error_processing_data">Por favor intente de nuevo</string>
+    <string name="action_take_photo">Tomar Foto</string>
+    <string name="action_choose_image">Seleccionar Imagen</string>
+</resources>
